@@ -1,2 +1,1 @@
-# example-1-master
- 
+# Code Samples for the test
